@@ -4,3 +4,6 @@
 </p>
 
 ## Instalación de Wordpress en la maquina virtual
+<p align="left">
+<img src="../main/wordpress%20pagina%20de%20inicio.png">
+</p>
